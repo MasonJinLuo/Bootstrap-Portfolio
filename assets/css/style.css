@@ -1,0 +1,216 @@
+.container {
+	border: 1px solid none;
+	padding: 0;
+	/*margin: 0 auto;*/
+  	width: 100%;
+  	max-width: 960px;
+	
+}
+
+
+.box{
+	position: relative;
+	max-width: 100%
+	width: 100%;
+	height: auto;
+	border: 1px solid black;
+	padding: 0;
+	/*margin: 0;*/
+	/*float: left;*/
+	margin: 0px 0 20px 0px;	
+}
+
+.box img{
+	max-width: 100%;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	float: none;
+	
+	
+
+}
+
+.box h3 {
+	position: absolute;
+	width: 100%;
+	height: auto;
+	background-color: teal;
+	color: white;
+	font-size: 25px;
+	z-index: 2;
+	text-align: center;
+	bottom: 0;
+}
+
+
+.button {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#header {
+	width: 100%;
+	background: white;
+	z-index: 99;
+	position: fixed;
+	border-bottom: solid 1px teal;
+}
+
+#c1 {
+	width: 100%;
+
+}
+
+#c2{ 
+	padding: 0px;
+	width: 640px;
+	
+
+
+}
+
+
+#c3 {
+	width: 650px;
+	background-color: white;
+	padding: 0px 15px 0px 15px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	border: solid 1px teal;
+
+
+}
+
+#c4 {
+	width: 240px;
+	background-color: white;
+	margin-top: 30px;
+	padding-bottom: 15px;
+	border: solid 1px teal;
+	
+	
+
+}
+
+#footerbckg {
+	background-color: #666666;
+	
+
+}
+
+
+#bckg {
+	background-image: url("../images/waves.png");
+	padding-top: 100px;
+	padding-bottom: 30px;
+	margin: 0 auto;
+
+}
+
+#footer {
+
+	font-style: Arial;
+	color: white;
+	font-size: 15px;
+	padding: 30px;
+	margin: 0 ;
+	text-align: center;
+}
+
+.row { 
+	border: 1px solid none;
+	width: 100%;
+	margin: 0;
+	
+
+}
+
+
+div.header{
+	font-size: 30px ;
+	color: white;
+	background-color: #4aaaa5;
+	text-align: center;
+	padding: 1%;
+
+}
+
+img {
+	
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	margin-right: 20px;
+	margin-left: 0px;
+	
+}
+
+
+h2 {
+	color: #4aaaa5;
+	font-style: Arial;
+	font-size: 20px bold;
+}
+
+h3 { 
+	color: #4aaaa5;
+	font-style: Arial;
+}
+
+#section {
+	margin-bottom: 15px;
+	width: 100%;
+	border-width: 2px;
+    border-color: #4aaaa5
+}
+
+#sidebar {
+	width: 90%;
+	border-width: 1px;
+    border-color: #4aaaa5
+}
+
+div.navi {
+	
+	margin-top: 20px;
+	color: #4aaaa5;
+	font: 25px arial, sans-serif;
+	text-align: center;
+
+}
+
+a.navi {
+	
+	text-decoration: none ;
+	color: #4aaaa5;
+	font: 20px arial, sans-serif;
+
+}
+
+
+img.sidebar {
+
+
+	float: none;
+	margin: 0px;
+
+}
+
+form.A { 
+	font: 20px arial, sans-serif ;
+	color: #4aaaa5;
+
+}
+
+textarea.message {
+	width: 100%;
+	height: 250px;
+}
